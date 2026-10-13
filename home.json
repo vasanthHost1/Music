@@ -1,0 +1,126 @@
+{
+  "brand": {
+    "name": "Foxxy",
+    "tagline": "Music for your mood"
+  },
+  "heading": "Made for you",
+  "subheading": "Personalized playlists, just for you",
+  "showSettings": true,
+  "hero": {
+    "play": "",
+    "slides": [
+      {
+        "kick": "GOOD VIBES ONLY",
+        "title": "Music for",
+        "highlight": "Every Mood",
+        "subtitle": "Discover • Play • Feel",
+        "theme": 1
+      },
+      {
+        "kick": "YOUR SOUNDTRACK",
+        "title": "Find Your",
+        "highlight": "Next Favourite",
+        "subtitle": "Fresh discoveries, made for you",
+        "theme": 2
+      },
+      {
+        "kick": "PRESS PLAY & ESCAPE",
+        "title": "Let the Music",
+        "highlight": "Take You Away",
+        "subtitle": "One mood. Endless songs.",
+        "theme": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "title": "Trending Tamil Songs",
+      "query": "latest tamil songs"
+    },
+    {
+      "title": "Romantic Vibes",
+      "songs": [
+        "Neelothi Sirai",
+        "id:A_KJ7TO7",
+        "Marandhu Poche With Love",
+        "Adi Alaye Parasakthi",
+        "Pattuma Love Insurance Kompany",
+        "Kannamma En Kannamma Kara",
+        "Aiyo Kadhaley With Love",
+        "Ratnamala Parasakthi",
+        "Esa Kaaththa My Lord",
+        "Minnu Vattaam Poochi Sirai"
+      ]
+    },
+    {
+      "title": "Melody & Chill",
+      "songs": [
+        "id:sa4mKbze",
+        "id:VP1DutLG",
+        "id:VF4bXxJA",
+        "id:_FXCybsk",
+        "id:dxYsKceY",
+        "id:7g0pQPzx",
+        "id:7g0pQPzx",
+        "id:MzOsYorg",
+        "id:itXw9yrX",
+        "id:bo7KIXAM"
+      ]
+    },
+    {
+      "title": "Fresh Discoveries",
+      "query": "new tamil songs"
+    }
+  ],
+  "languages": {
+    "english": {
+      "sections": [
+        {
+          "title": "Romantic Vibes",
+          "songs": [
+            "Die With a Smile Lady Gaga Bruno Mars",
+            "Perfect Ed Sheeran",
+            "Until I Found You Stephen Sanchez",
+            "I Wanna Be Yours Arctic Monkeys",
+            "id:gz7KFqbw",
+            "id:bKAchHBu",
+            "id:OX3tu2y9",
+            "id:i-wndv8y",
+            "id:h0wlLSUh",
+            "id:KPNG0bgs"
+          ]
+        },
+        {
+          "title": "Feel-Good Hits",
+          "songs": [
+            "APT. ROSÉ Bruno Mars",
+            "id:It96yG1r",
+            "Levitating Dua Lipa",
+            "id:_3pNmLZN",
+            "Espresso Sabrina Carpenter",
+            "Shape of You Ed Sheeran",
+            "id:1__diitH",
+            "id:VGjlSPMD",
+            "id:sfrskdHG",
+            "On Top of the World Imagine Dragons"
+          ]
+        },
+        {
+          "title": "Midnight Chill",
+          "songs": [
+            "Snooze SZA",
+            "golden hour JVKE",
+            "id:8Ti1DvzG",
+            "ocean eyes Billie Eilish",
+            "The Night We Met Lord Huron",
+            "id:8msKqEsu",
+            "id:Y40_BDwl",
+            "id:_J5iTI6U",
+            "id:5xceLLNe",
+            "id:ewdYGxdW"
+          ]
+        }
+      ]
+    }
+  }
+}
