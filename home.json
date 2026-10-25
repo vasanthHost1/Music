@@ -1,0 +1,407 @@
+{
+  "brand": {
+    "name": "Foxxy",
+    "tagline": "Music for your mood"
+  },
+  "heading": "Made for you",
+  "subheading": "Personalized playlists, just for you",
+  "showSettings": true,
+  "hero": {
+    "play": "",
+    "slides": [
+      {
+        "kick": "GOOD VIBES ONLY",
+        "title": "Music for",
+        "highlight": "Every Mood",
+        "subtitle": "Discover • Play • Feel",
+        "theme": 1
+      },
+      {
+        "kick": "YOUR SOUNDTRACK",
+        "title": "Find Your",
+        "highlight": "Next Favourite",
+        "subtitle": "Fresh discoveries, made for you",
+        "theme": 2
+      },
+      {
+        "kick": "PRESS PLAY & ESCAPE",
+        "title": "Let the Music",
+        "highlight": "Take You Away",
+        "subtitle": "One mood. Endless songs.",
+        "theme": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "title": "Top Artists",
+      "style": "artists",
+      "playlists": [
+        {
+          "title": "Let's Play - Anirudh Ravichander - Tamil",
+          "id": "76182059"
+        },
+        {
+          "title": "Let's Play - Sai Abhyankkar",
+          "id": "1268059887"
+        },
+        {
+          "title": "Let's Play - G. V. Prakash Kumar",
+          "id": "62125106"
+        },
+        {
+          "title": "Let's Play - A.R. Rahman",
+          "id": "201508188"
+        },
+        {
+          "title": "Let's Play - Yuvan Shankar Raja",
+          "id": "71463134"
+        }
+      ]
+    },
+    {
+      "title": "Trending songs",
+      "query": "latest tamil songs"
+    },
+    {
+      "title": "Recommended playlists",
+      "playlists": [
+        {
+          "title": "Pudhu Tunes",
+          "id": "10763385"
+        },
+        {
+          "title": "Best Of Romance - Tamil",
+          "id": "1134650280"
+        },
+        {
+          "title": "Semma Mass - Tamil",
+          "id": "67691546"
+        },
+        {
+          "title": "Sad Love - Tamil",
+          "id": "804092154"
+        }
+      ]
+    },
+    {
+      "title": "Start listening",
+      "from": "Recommended playlists",
+      "random": 8
+    },
+    {
+      "title": "More playlists for your mood",
+      "playlists": [
+        {
+          "title": "Tamil: India Superhits Top 50",
+          "id": "1134651042"
+        },
+        {
+          "title": "Manam Virumbum Melody",
+          "id": "83410788"
+        },
+        {
+          "title": "Top Kuthu - Tamil",
+          "id": "109815423"
+        },
+        {
+          "title": "Iravaaga Nee",
+          "id": "789168950"
+        },
+        {
+          "title": "Tamil Viral Hits",
+          "id": "80802063"
+        },
+        {
+          "title": "Chill At Home - Tamil",
+          "id": "767974807"
+        },
+        {
+          "title": "Heartbreak Hits",
+          "id": "83438694"
+        },
+        {
+          "title": "Workout Beats - Tamil",
+          "id": "83412571"
+        }
+      ]
+    }
+  ],
+  "search": {
+    "title": "Recommended playlists",
+    "playlists": [
+      {
+        "title": "Most Searched Songs - Tamil",
+        "id": "1026391929"
+      },
+      {
+        "title": "Kadhal Nerukkam",
+        "id": "842918087"
+      },
+      {
+        "title": "Bus Beats - Tamil",
+        "id": "853318832"
+      },
+      {
+        "title": "Best Of 90s  - Tamil",
+        "id": "801896864"
+      },
+      {
+        "title": "Party Styleu : Tamil",
+        "id": "1537883"
+      },
+      {
+        "title": "Konjam Coffee Konjam Kaadhal",
+        "id": "221831043"
+      },
+      {
+        "title": "Tamil 2000s",
+        "id": "1170578783"
+      },
+      {
+        "title": "A.R. Rahman - Love Songs - Tamil",
+        "id": "3573131"
+      },
+      {
+        "title": "Anirudh Ravichander - Party Songs - Tamil",
+        "id": "76293059"
+      },
+      {
+        "title": "Travel Beats - Tamil",
+        "id": "855957889"
+      },
+      {
+        "title": "Trending POP - Tamil",
+        "id": "919280091"
+      },
+      {
+        "title": "Folk Melody - Tamil",
+        "id": "896219309"
+      },
+      {
+        "title": "Most Streamed Love Songs: Tamil",
+        "id": "1139646951"
+      },
+      {
+        "title": "Ilaiyaraaja - 90s Hits",
+        "id": "2841421"
+      },
+      {
+        "title": "Let's Play - Harris Jayaraj",
+        "id": "48257454"
+      },
+      {
+        "title": "Folk Dance - Tamil",
+        "id": "892947318"
+      },
+      {
+        "title": "Chill Hits - Tamil",
+        "id": "837803163"
+      },
+      {
+        "title": "Sounds Of Music - Guitar - Tamil",
+        "id": "158226508"
+      },
+      {
+        "title": "Voice Of Dhanush - Tamil",
+        "id": "810778"
+      },
+      {
+        "title": "Kadhal Mazhai - Tamil",
+        "id": "842152433"
+      }
+    ]
+  },
+  "languages": {
+    "english": {
+      "sections": [
+        {
+          "title": "Top Artists",
+          "style": "artists",
+          "playlists": [
+            {
+              "title": "Let's Play - Taylor Swift",
+              "q": "Let's Play - Taylor Swift"
+            },
+            {
+              "title": "Let's Play - Ed Sheeran",
+              "q": "Let's Play - Ed Sheeran"
+            },
+            {
+              "title": "Let's Play - The Weeknd",
+              "q": "Let's Play - The Weeknd"
+            },
+            {
+              "title": "Let's Play - Billie Eilish",
+              "q": "Let's Play - Billie Eilish"
+            },
+            {
+              "title": "Let's Play - Justin Bieber",
+              "q": "Let's Play - Justin Bieber"
+            }
+          ]
+        },
+        {
+          "title": "Trending songs",
+          "query": "top english songs 2026",
+          "extra": [
+            "Sabrina Carpenter",
+            "Dua Lipa",
+            "The Weeknd",
+            "Billie Eilish",
+            "Bruno Mars",
+            "Taylor Swift"
+          ]
+        },
+        {
+          "title": "Recommended playlists",
+          "playlists": [
+            {
+              "title": "Todays Top Hits",
+              "q": "Todays Top Hits"
+            },
+            {
+              "title": "Heartbeats",
+              "q": "Heartbeats"
+            },
+            {
+              "title": "English Viral Hits",
+              "q": "English Viral Hits"
+            },
+            {
+              "title": "Love Hurts",
+              "q": "Love Hurts"
+            }
+          ]
+        },
+        {
+          "title": "Start listening",
+          "from": "Recommended playlists",
+          "random": 8
+        },
+        {
+          "title": "More playlists for your mood",
+          "playlists": [
+            {
+              "title": "Chartbusters 2026 - International",
+              "q": "Chartbusters 2026 - International"
+            },
+            {
+              "title": "Essential Soft Pop",
+              "q": "Essential Soft Pop"
+            },
+            {
+              "title": "House Party - English",
+              "q": "House Party - English"
+            },
+            {
+              "title": "Sensuous Love Songs - English",
+              "q": "Sensuous Love Songs - English"
+            },
+            {
+              "title": "Chill Beats",
+              "q": "Chill Beats"
+            },
+            {
+              "title": "Feel Good Pop",
+              "q": "Feel Good Pop"
+            },
+            {
+              "title": "Fresh Tunes",
+              "q": "Fresh Tunes"
+            },
+            {
+              "title": "Ultimate Workout Mix",
+              "q": "Ultimate Workout Mix"
+            }
+          ]
+        }
+      ],
+      "search": {
+        "title": "Recommended playlists",
+        "playlists": [
+          {
+            "title": "Now Playing Pop",
+            "q": "Now Playing Pop"
+          },
+          {
+            "title": "Hollywood Movie Hits",
+            "q": "Hollywood Movie Hits"
+          },
+          {
+            "title": "Let's Play - Backstreet Boys",
+            "q": "Let's Play - Backstreet Boys"
+          },
+          {
+            "title": "90s Boy Bands",
+            "q": "90s Boy Bands"
+          },
+          {
+            "title": "Songs of Summer - English",
+            "q": "Songs of Summer - English"
+          },
+          {
+            "title": "Let's Play - Jason Derulo",
+            "q": "Let's Play - Jason Derulo"
+          },
+          {
+            "title": "Treadmill Pop",
+            "q": "Treadmill Pop"
+          },
+          {
+            "title": "Let's Play - Michael Jackson",
+            "q": "Let's Play - Michael Jackson"
+          },
+          {
+            "title": "Let's Play - Drake",
+            "q": "Let's Play - Drake"
+          },
+          {
+            "title": "Let's Play - Imagine Dragons",
+            "q": "Let's Play - Imagine Dragons"
+          },
+          {
+            "title": "Rock Drive Time",
+            "q": "Rock Drive Time"
+          },
+          {
+            "title": "Fresh RnB Hits",
+            "q": "Fresh RnB Hits"
+          },
+          {
+            "title": "Chill Hip Hop",
+            "q": "Chill Hip Hop"
+          },
+          {
+            "title": "Let's Play - Guns N' Roses",
+            "q": "Let's Play - Guns N' Roses"
+          },
+          {
+            "title": "Hip Hop Workout",
+            "q": "Hip Hop Workout"
+          },
+          {
+            "title": "Let's Play - Elton John",
+            "q": "Let's Play - Elton John"
+          },
+          {
+            "title": "Fresh Rock Hits - English",
+            "q": "Fresh Rock Hits - English"
+          },
+          {
+            "title": "Retro Workout",
+            "q": "Retro Workout"
+          },
+          {
+            "title": "Let's Play - Queen",
+            "q": "Let's Play - Queen"
+          },
+          {
+            "title": "Let's Play - Bob Marley",
+            "q": "Let's Play - Bob Marley"
+          }
+        ]
+      }
+    }
+  }
+}
